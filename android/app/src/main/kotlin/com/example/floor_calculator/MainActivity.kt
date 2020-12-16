@@ -1,4 +1,4 @@
-package com.example.floor_calculator
+package com.franciscofuzari.floor_calculator
 
 import io.flutter.embedding.android.FlutterActivity
 
